@@ -1,2 +1,2 @@
-# Image_deblurring
+# Aerial Image Deblurring
 Denoising Aerial Imagery Using ML,NN
