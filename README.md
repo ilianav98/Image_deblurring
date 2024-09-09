@@ -1,4 +1,3 @@
-# Aerial Image Deblurring
 # Aerial Image Deblurring Using UNet Autoencoder
 
 This project focuses on using a **UNet Autoencoder** to sharpen aerial photos that were artificially degraded with motion blur. The model is trained to reverse the blurring effects and restore the images to their original sharp state. The results are evaluated using the **PSNR (Peak Signal-to-Noise Ratio)** metric.
